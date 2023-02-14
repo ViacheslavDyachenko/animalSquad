@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fir-rtc-89b99"
-  }
+    "default": "animal-squad-5a642",
+    "animalSquad": "animal-squad-5a642"
+  },
+  "targets": {},
+  "etags": {}
 }
